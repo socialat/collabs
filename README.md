@@ -3,7 +3,7 @@ We provide you feedback on your opensource project ideas
 
 There're many opensource projects shut down because of less attention, less need, duplicate, and other reasons. People might want to take an opinion of others if it is worthy to spend time on any new opensource project. devRant's collabs is one of the example.
 
-As devRant is a big collaboration platform for developers (other IT professionals too), I'm creating this repository focusing only on opensource projects.
+As devRant is a big collaboration platform for developers (other IT professionals too), I'm creating this repository focusing only on opensource projects only with detail discussion. However we'll suggest you to try devRant first to get attention of big crowd.
 
 So raise an issue with following information for any guidence. 
 
